@@ -7,9 +7,6 @@ class Project
     @backers = []
   end
   
-  def back_project(project)
-    @backers << projects
-    binding.pry
-  end
+
   
 end
